@@ -1,4 +1,4 @@
-# 👋 Hey, Let's understand a research field in 5 minutes! 🌟
+# 👋 Hey, Let's understand a research field in 5 minutes!
 
 *   This notebook automatically fetches citation information of a specific paper from google scholar.
 *   If a citation is availble on arxiv, its full abstract will be extracted.
