@@ -1,6 +1,6 @@
 # 👋 Hey, Let's understand a research field in 5 minutes!
 
-*   This notebook automatically fetches citation information of a specific paper from google scholar.
+*   This [**notebook**](https://github.com/StarCycle/CitationInfo2Txt/blob/main/FetchAbstractsOfCitationsFromGoogleScholar.ipynb) automatically fetches citation information of a specific paper from google scholar.
 *   If a citation is availble on arxiv, its full abstract will be extracted.
 *   The information will be saved in a text file with a prompt to let an LLM to summarize the citations.
 *   Please run it on Google Colab to get fast access to Google Scholar.
